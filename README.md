@@ -15,7 +15,7 @@ As funcionalidades são 6, sendo elas:
 
 # Como ultilizar ? 
 O script irá pedir uma entrada de 0 a 6 , de acordo com as necessidades do momento.
-Após a escolha ele é direcionado a um dos blocos de código,cálculos para responder outras perguntas dentro da opção desejada, e no final é apresentado o preço sobre o serviço escolhido.
+Após a escolha ele é direcionado a um dos blocos de código (cálculos), para responder outras perguntas dentro da opção desejada, e no final é apresentado o preço sobre o serviço escolhido.
 
 # Quais serão as próximas melhorias ?
 
